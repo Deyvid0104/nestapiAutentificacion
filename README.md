@@ -17,7 +17,7 @@ NestAPI es una aplicación backend construida con NestJS, diseñada para proporc
    ```
 2. Navega al directorio del proyecto:
    ```bash
-   cd nestapi
+   cd nestapiAutentificacion
    ```
 3. Instala las dependencias:
    ```bash
